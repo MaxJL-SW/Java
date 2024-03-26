@@ -1,0 +1,5 @@
+fièvre:2
+maux de tête:1
+maux de ventre:1
+rrhume:1
+vertiges:1

@@ -35,7 +35,7 @@ public class GestionnaireTaches {
         System.out.println("Numéro de la tâche à supprimer :");
         int numero = scanner.nextInt();
         taches.removeIf(t -> t.getNumero() == numero);
-    }
+    }dtgu
     
     // Affichage des tâche terminées
     public void afficherTachesFinies() {

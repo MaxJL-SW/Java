@@ -1,0 +1,34 @@
+2024-04-04 16:48:30,836 INFO [main] F.FileDAOImpl [FileDAOImpl.java:21] Lecture et affichage des véhicules depuis le fichier data.txt
+2024-04-04 17:23:36,183 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:167] Vidage de la table car
+2024-04-04 17:23:36,385 INFO [main] F.FileDAOImpl [FileDAOImpl.java:21] Lecture et affichage des véhicules depuis le fichier data.txt
+2024-04-04 17:23:36,386 INFO [main] F.FileDAOImpl [FileDAOImpl.java:34] Lecture et affichage des véhicules de moins de 20 ans depuis le fichier data.txt
+2024-04-04 17:23:36,386 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,392 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,392 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:60] Insertions en bdd des véhicules depuis le fichier data.txt
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,393 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,394 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : AX123P1
+2024-04-04 17:23:36,416 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,417 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,417 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : AX123P3
+2024-04-04 17:23:36,437 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,437 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,437 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : AX123P5
+2024-04-04 17:23:36,453 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,453 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : AX123P6
+2024-04-04 17:23:36,470 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,470 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : AX123P7
+2024-04-04 17:23:36,486 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,486 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : AX123P8
+2024-04-04 17:23:36,508 INFO [main] F.FileDAOImpl [FileDAOImpl.java:52] Calcul des âges des véhicules
+2024-04-04 17:23:36,508 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : AX123P9
+2024-04-04 17:27:45,581 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:42] Affichage des véhicules de la base de donnée.
+2024-04-04 17:27:45,777 INFO [main] A.VehicleDAOImpl [VehicleDAOImpl.java:24] Insertion d'un véhicule en base de données : ABC123

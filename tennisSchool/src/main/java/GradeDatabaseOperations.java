@@ -115,5 +115,4 @@ public class GradeDatabaseOperations implements DatabaseOperations {
             logger.log(Level.SEVERE, "Erreur lors de la mise à jour de la note : " + e.getMessage(), e);
         }
     }
-
 }
